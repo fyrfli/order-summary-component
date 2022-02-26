@@ -69,7 +69,7 @@ main {
     padding: .8rem;
     color: var(--desaturated-blue);
 }
-.price-plan-item h3 {
+.price-plan-item h2 {
     font-size: 14px;
     color: var(--dark-blue);
 }
@@ -94,9 +94,6 @@ main {
     box-shadow: 2px 12px 22px var(--bright-blue-shadow);
     font-weight: 700;
     transition: transform .6s;
-}
-.checkout-button :any-link {
-    color: var(--pale-pale-blue);
 }
 .checkout-button:hover {
     transform: scale(110%);
