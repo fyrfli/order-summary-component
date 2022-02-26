@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github repository](https://github.com/fyrfli/order-summary-component)
-- Live Site URL: [Live site](https://github.io/fyrfli/order-summary-component)
+- Live Site URL: [Live site](https://fyrfli.github.io/order-summary-component)
 
 ## My process
 
